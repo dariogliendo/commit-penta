@@ -1,0 +1,1 @@
+python "C:\Users\daro\commit-pentahotspot\pentahotspot-commit.py" %*
