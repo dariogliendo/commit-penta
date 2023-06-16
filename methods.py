@@ -20,6 +20,7 @@ def merge(merged_branch):
           sp.run('git merge --abort')
           print('')
           print('Listo!')
+          exit()
         else:
           print('Resolver el conflicto y volver a intentar')
           exit()
